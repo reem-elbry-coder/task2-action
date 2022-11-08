@@ -18,4 +18,4 @@ jobs:
         run: pwd
 
       - name: 'testing printing'
-        run: acho reem
+        run: echo reem
